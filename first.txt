@@ -1,3 +1,6 @@
 first git 
 remote add new content
 the second change content and commit to remote repository
+
+add new content
+
